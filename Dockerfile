@@ -1,7 +1,6 @@
 FROM node:10-jessie
 MAINTAINER Matt Jones "matt@starchup.com"
 
-
 FROM codeship/google-cloud-deployment
 MAINTAINER Matt Jones "matt@starchup.com"
 
